@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "@wspersaud:registry": "https://npm.pkg.github.com"
+  }
+
 }
